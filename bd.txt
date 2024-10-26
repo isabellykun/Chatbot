@@ -1,0 +1,8 @@
+Cliente: Oi
+Chatbot: Olá!
+Cliente: Tudo bem?
+Chatbot: Tudo bem sim, e você? Você gosta de futebol?
+Cliente: Sim
+Chatbot: Qual time você torce?
+Cliente: Palmeiras
+Chatbot: Uau! O melhor time do Brasil!!!!
